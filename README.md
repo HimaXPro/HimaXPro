@@ -1,69 +1,225 @@
 <div align="center">
-  <h1>Hi there, I'm Hikmah Khaliq Abdillah Putra! 👋</h1>
-  <h3>Full-Stack Developer | Mobile Developer | Creative Video Editor</h3>
-  <p>Mahasiswa Teknologi Informasi di Universitas Telkom Surabaya yang passionate dalam dunia programming, teknologi, dan kreatif.</p>
+
+# Hikmah Khaliq Abdillah Putra
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=BD93F9&center=true&vCenter=true&width=850&lines=Full-Stack+%26+Mobile+Developer;Creative+Video+Editor+%26+Visual+Storyteller;C%2B%2B+%7C+Go+%7C+PHP+%7C+Dart+%7C+JavaScript;Building+Web%2C+Mobile+%26+Creative+Solutions;Always+Learning+%26+Open+to+Opportunities" alt="Typing SVG" />
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f3d.gif" width="480" alt="Coding animation" />
+
+<br/><br/>
+
+<a href="https://portofolio-theta-red-88.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-BD93F9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+<a href="https://www.linkedin.com/in/hikmah-khaliq-abdillah-putra-333a56295/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Hikmah%20Khaliq-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.youtube.com/@himaxpro13" target="_blank"><img src="https://img.shields.io/badge/YouTube-@himaxpro13-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+<a href="https://www.instagram.com/himaxpro/" target="_blank"><img src="https://img.shields.io/badge/Instagram-@himaxpro-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=HimaXPro&label=Profile%20Views&color=bd93f9&style=flat" alt="Profile views" />
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+I'm an **Information Technology undergraduate at Telkom University Surabaya** with a strong passion for programming, technology, and creative multimedia.
+
+I develop **web applications, mobile apps, and creative video content**. My experience spans across full-stack web development with Laravel, cross-platform mobile development with Flutter, and professional video editing & content creation.
+
+Beyond coding, I bring a creative edge — with hands-on experience in **video editing, color grading, motion graphics, and visual storytelling** that sets me apart as a developer who understands both logic and aesthetics.
+
+📍 Surabaya, East Java, Indonesia  
+🎓 Information Technology — Telkom University Surabaya  
+🎬 Video Editor & Content Creator  
+🚀 Open to opportunities & collaboration
+
+</td>
+<td width="40%" align="center" valign="middle">
+<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="320" alt="Development animation" />
+</td>
+</tr>
+</table>
+
+---
+
+## 💼 Experience
+
+| Role | Company | Type |
+|------|---------|------|
+| 🎬 **Video / Content Editor** | Media Company | Part-time (SMK) |
+| 🖨️ **Printing Industry Intern** | Printing Company | Internship |
+| 🖥️ **Internet Cafe Operator** | Family Business | Part-time |
+
+---
+
+## 🧰 Tech Stack
+
+### Languages
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000" alt="C" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" alt="JavaScript" />
+</p>
+
+### Frameworks & Platforms
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### Tools & Creative
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Video%20Editing-9B59B6?style=for-the-badge" alt="Video Editing" />
+  <img src="https://img.shields.io/badge/Motion%20Graphics-E74C3C?style=for-the-badge" alt="Motion Graphics" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏫 Sistem Absensi Siswa
+
+**Laravel · PHP · MySQL · Chart.js**
+
+Student attendance management system for SMP GIKI 2 Surabaya — featuring real-time dashboard, attendance statistics per class, and teacher data monitoring.
+
+</td>
+<td width="50%" valign="top">
+
+### 🗺️ Explore Toraja
+
+**Laravel · PHP · MySQL · Bootstrap**
+
+Digital tourism platform for exploring destinations, culture, and online ticket booking in the Toraja region — with weather info, reviews, and favorites.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏢 PT Maju Sejahtera Website
+
+**HTML · CSS · JavaScript · PHP**
+
+Professional company profile website showcasing company info, products, technology, archives, career opportunities, and contact page.
+
+</td>
+<td width="50%" valign="top">
+
+### 📱 VoxSight AI
+
+**Flutter · Dart · REST API**
+
+Mobile companion app for VoxSight AI smart device — featuring full authentication (login, register, OTP password reset), monitoring dashboard, and profile management.
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🎬 Creative Portfolio
+
+<table>
+<tr>
+<td width="60%" valign="top">
+
+Beyond development, I have a strong background in **visual content creation**:
+
+- 🎨 **Color Grading** — Cinematic and dynamic color correction
+- ✂️ **Video Editing** — Professional cuts, transitions, and pacing
+- 🎞️ **Motion Graphics** — Animated visual elements and effects
+- 📖 **Visual Storytelling** — Narrative-driven content production
+
+Check out my work on **[YouTube](https://www.youtube.com/@himaxpro13)** for video editing showcases!
+
+</td>
+<td width="40%" align="center">
+<a href="https://www.youtube.com/@himaxpro13"><img src="https://img.shields.io/badge/YouTube-Watch%20My%20Work-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" /></a>
+<br/><br/>
+<img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37a7-4f43-8b5c-9e7e18f101f7.gif" width="250" alt="Creative animation" />
+</td>
+</tr>
+</table>
+
+---
+
+## 🔭 What I'm Currently Exploring
+
+<table>
+<tr>
+<td width="65%" valign="top">
+
+- Full-stack web development with **Laravel**
+- Cross-platform mobile apps with **Flutter & Dart**
+- Backend services & **REST API** design
+- **Go** for backend development
+- UI/UX design principles
+- Merging **creative skills** with software engineering
+
+</td>
+<td width="35%" align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="260" alt="Exploring tech" />
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HimaXPro&theme=dracula" width="95%" alt="GitHub profile details" />
 </div>
 
 <div align="center">
-  <a href="https://portofolio-theta-red-88.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=vercel" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/hikmah-khaliq-abdillah-putra-333a56295/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
-  </a>
-  <a href="https://www.youtube.com/@himaxpro13" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Channel-red?style=for-the-badge&logo=youtube" alt="YouTube" />
-  </a>
-  <a href="https://www.instagram.com/himaxpro/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Profile-E1306C?style=for-the-badge&logo=instagram" alt="Instagram" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HimaXPro&theme=dracula" alt="Repos per language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HimaXPro&theme=dracula" alt="GitHub stats" />
 </div>
 
-<br>
-
-### 👨‍💻 About Me
-- 🎓 Saat ini sedang menempuh pendidikan S1 **Teknologi Informasi** di **Universitas Telkom Surabaya**.
-- 💼 Memiliki pengalaman sebagai **Editor Video/Konten**, **IT Support/Operator Warnet**, dan magang di Industri Percetakan.
-- 💻 Berpengalaman membangun aplikasi berbasis **Web** maupun **Mobile**.
-- 🚀 Terbuka untuk peluang baru dan kolaborasi!
-
-<br>
-
-### 🛠️ Skills & Technologies
-
-**Programming Languages:**  
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-**Frameworks:**  
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-
-<br>
-
-### 🚀 Featured Projects
-
-#### 🌐 Web Projects
-- **Sistem Absensi Siswa (SMP GIKI 2 Surabaya)** - Aplikasi manajemen absensi dengan dashboard statistik real-time *(Laravel, MySQL, Chart.js)*
-- **Explore Toraja** - Platform wisata digital untuk destinasi, budaya, dan tiket online kawasan Toraja *(Laravel, MySQL, Bootstrap)*
-- **Company Profile PT Maju Sejahtera** - Website perusahaan dengan fitur produk, arsip, dan lowongan karir *(HTML, CSS, JS, PHP)*
-
-#### 📱 Mobile App
-- **VoxSight AI** - Aplikasi companion smart device dengan fitur auth, OTP reset, dan dashboard pemantauan *(Flutter, Dart, REST API)*
-
-#### 🎬 Creative Work
-- Berpengalaman dalam **Video Editing**, **Color Grading**, **Motion Graphics**, dan **Visual Storytelling**. Kunjungi [Channel YouTube](https://www.youtube.com/@himaxpro13) saya untuk melihat portofolio visual.
-
-<br>
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HimaXPro&show_icons=true&theme=radium&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimaXPro&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HimaXPro&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br>
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/HimaXPro"><img src="https://img.shields.io/badge/GitHub-HimaXPro-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/hikmah-khaliq-abdillah-putra-333a56295/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://portofolio-theta-red-88.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Open-BD93F9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.youtube.com/@himaxpro13"><img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
+  <a href="https://www.instagram.com/himaxpro/"><img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+</p>
 
 <div align="center">
-  <i>"Menggabungkan kreativitas visual dan logika pemrograman untuk menciptakan solusi yang lebih baik."</i>
+  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="430" alt="Typing animation" />
+  <br/>
+  <b>Blending creativity and code — one project at a time. ✨</b>
 </div>
