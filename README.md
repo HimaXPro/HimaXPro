@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f15b36f3d.gif" width="480" alt="Coding animation" />
+<img src="https://raw.githubusercontent.com/hustnn/hustnn/master/assets/coding.gif" width="480" alt="Coding animation" />
 
 <br/><br/>
 
