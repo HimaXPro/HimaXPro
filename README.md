@@ -218,8 +218,4 @@ Check out my work on **[YouTube](https://www.youtube.com/@himaxpro13)** for vide
   <a href="https://www.instagram.com/himaxpro/"><img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749168-86d6c7ab-98da-409b-998f-c5b74721badd.gif" width="430" alt="Typing animation" />
-  <br/>
-  <b>Blending creativity and code — one project at a time. ✨</b>
-</div>
+
