@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://visitcount.itsvg.in/api?id=HimaXPro&icon=5&color=6" alt="Profile views" />
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHimaXPro&count_bg=%23BD93F9&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7EE&title=Profile+Views&edge_flat=false" alt="Profile views" />
 
 </div>
 
