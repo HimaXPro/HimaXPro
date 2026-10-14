@@ -17,7 +17,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=HimaXPro&label=Profile%20Views&color=bd93f9&style=flat" alt="Profile views" />
+<img src="https://visitcount.itsvg.in/api?id=HimaXPro&icon=5&color=6" alt="Profile views" />
 
 </div>
 
